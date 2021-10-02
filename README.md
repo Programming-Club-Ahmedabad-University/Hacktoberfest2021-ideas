@@ -25,3 +25,6 @@ Following are a few competitive programming repositories made for cp enthusiasts
 - [cp - 3](https://github.com/Aman22sharma/Hacktoberfest2021_beginner)
 - [cp - 4](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
 - [cp - 5](https://github.com/abhishekdoifode1/Hacktoberfest2021)
+- [cp - 6](https://github.com/abhpd/hacktoberfest2021)
+- [cp - 7](https://github.com/vichitr/HacktoberfestForBeginners)
+- [cp - 8](https://github.com/SR-Sunny-Raj/Hacktoberfest2021-DSA)
